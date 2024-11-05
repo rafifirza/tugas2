@@ -1,0 +1,41 @@
+body {
+    background: url(danshi\ kokousei\ no\ nichijou.jpg);
+    background-size: cover;
+    opacity: 0,7;
+    font-family: monospace;
+  }
+  .jadwal {
+    width: 80%;
+    margin: 50px auto;
+    border: 2px dashed white;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+    text-align: center;
+  }
+  .jadwal h1 {
+    margin: 0;
+    padding: 10px;
+    border-bottom: 2px dashed white;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th,
+  td {
+    border: 1px solid white;
+    padding: 10px;
+  }
+  th {
+    background-color: black;
+  }
+  th {
+    background-color: black;
+  }
+  td:hover {
+    background-color: aqua;
+  }
+  th:hover {
+    background-color: aqua;
+  }
